@@ -1,4 +1,4 @@
 # Pc-Cleaner
 Clean up your Pc.
 ---
-You need the Batch an the exe to work
+You need the Batch and the exe to work
