@@ -24,6 +24,5 @@ del /q /f /s %SYSTEMDRIVE%\*.bak
 del /q /f /s %SYSTEMDRIVE%\*.gid
 color 9
 echo Cleaned logs
-echo Thanks for using Cracky's Pc Cleaner
 pause
 cls
